@@ -28,7 +28,6 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 - Criei tabelas e migrations também utilizando o Prisma;
 - Aprendi como funciona o relacionamento entre as tabelas;
 - Utilizei WebSocket para comunição Realtime;
-- 
 ## Features
 - Além das informações de Nome, Avatar, e User(Login) do usuário, adicionei o link de perfil para que ao cadastrar uma mensagem o Perfil do usuário ficasse disponível no frontend da aplicação, para que dessa forma outras pessoas pudessem ser direcionadas ao perfil do autor de cada mensagem.
 - Para isso adicionei uma nova tabela no Banco de Dados para armazenar o link do perfil;
