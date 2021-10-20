@@ -4,6 +4,7 @@
 
 A aplicação foi desenvolvida em:
 
+- [Node.js](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Prisma](https://www.prisma.io/)
