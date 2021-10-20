@@ -35,3 +35,5 @@ A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
 - Para isso adicionei uma nova tabela no Banco de Dados para armazenar o link do perfil;
 
 
+### Obrigado [Rocketseat](https://www.rocketseat.com.br/).
+
